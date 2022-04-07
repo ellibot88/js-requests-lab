@@ -1,0 +1,9 @@
+.button-black {
+  background-color: black;
+  color: white;
+}
+p {
+  color: black;
+  font-size: 36px;
+  /* background-color: black; */
+}
